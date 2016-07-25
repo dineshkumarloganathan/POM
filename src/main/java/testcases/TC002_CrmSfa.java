@@ -20,7 +20,7 @@ public class TC002_CrmSfa extends OpentapsWrappers{
 	}
 	@BeforeClass
 	public void beforeClass() {
-		dataSheetName="TC002";
+		dataSheetName="TC003";
 		browserName="chrome";
 		testCaseName="Login to OpenTaps(Negative)";
 		testDescription="Login(Failure) to Opentaps using POM framework";
